@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name = "images">
+        <item>@drawable/shortcutsapp_keyboard_f1</item>
+        <item>@drawable/shortcutsapp_keyboard_f2</item>
+        <item>@drawable/shortcutsapp_keyboard_f3</item>
+        <item>@drawable/shortcutsapp_keyboard_f4</item>
+        <item>@drawable/shortcutsapp_keyboard_f5</item>
+        <item>@drawable/shortcutsapp_keyboard_f6</item>
+        <item>@drawable/shortcutsapp_keyboard_f7</item>
+        <item>@drawable/shortcutsapp_keyboard_f8</item>
+        <item>@drawable/shortcutsapp_keyboard_f9</item>
+        <item>@drawable/shortcutsapp_keyboard_f10</item>
+        <item>@drawable/shortcutsapp_keyboard_f11</item>
+        <item>@drawable/shortcutsapp_keyboard_f12</item>
+    </string-array>
+
+</resources>

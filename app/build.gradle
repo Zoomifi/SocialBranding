@@ -1,0 +1,37 @@
+apply plugin: 'com.android.application'
+
+android {
+    packagingOptions {
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/LICENSE'
+    }
+    compileSdkVersion 22
+    buildToolsVersion "22.0.1"
+
+    defaultConfig {
+        applicationId "zomifi.op27no2.socialbranding"
+        minSdkVersion 17
+        targetSdkVersion 22
+        versionCode 19
+        versionName "1.6"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.android.support:appcompat-v7:22.2.0'
+    compile 'com.clover.sdk:clover-android-sdk:latest.release'
+    compile 'com.squareup.picasso:picasso:2.5.2'
+    compile 'com.google.code.gson:gson:2.4'
+    compile files('libs/bolts-tasks-1.3.0.jar')
+    compile files('libs/Parse-1.11.0.jar')
+    compile files('libs/ParseCrashReporting-1.10.2.jar')
+    compile 'com.firebase:firebase-client-android:2.5.0+'
+
+}

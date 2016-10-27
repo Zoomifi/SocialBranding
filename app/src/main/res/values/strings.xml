@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Social Branding</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="no_account">There is no Clover account.</string>
+
+    <string name="input_receipt_text">Add text to end of the receipt</string>
+    <string name="test_print">Test Print</string>
+</resources>

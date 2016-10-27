@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name = "images">
+        <item>@drawable/socialiconsapp_facebookb</item>
+        <item>@drawable/socialiconsapp_googleplusb</item>
+        <item>@drawable/socialiconsapp_twitterb</item>
+        <item>@drawable/socialiconsapp_pinterestb</item>
+        <item>@drawable/socialiconsapp_instagramb</item>
+        <item>@drawable/socialiconsapp_yelpb</item>
+        <item>@drawable/socialiconsapp_foursquareb</item>
+        <item>@drawable/socialiconsapp_grubhubb</item>
+        <item>@drawable/socialiconsapp_reversed_zomatob</item>
+        <item>@drawable/socialiconsapp_opentableb</item>
+    </string-array>
+
+</resources>

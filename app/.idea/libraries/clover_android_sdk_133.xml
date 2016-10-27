@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="clover-android-sdk-133">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/build/intermediates/exploded-aar/com.clover.sdk/clover-android-sdk/133/res" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/exploded-aar/com.clover.sdk/clover-android-sdk/133/jars/libs/calc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/exploded-aar/com.clover.sdk/clover-android-sdk/133/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.clover.sdk/clover-android-sdk/133/9f1c9f73d5787e7cb127a69e6724e8b8d7d3b73e/clover-android-sdk-133-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
